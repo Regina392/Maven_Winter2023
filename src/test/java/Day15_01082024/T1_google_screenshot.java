@@ -17,4 +17,15 @@ public class T1_google_screenshot  extends TestParent {
         Thread.sleep(1000);
     }//end of test case 1
 
+    @Test
+    public void tc002_gitCommit() {
+        //committing a new test case
+    }//end of test case 1
+
+
+
+
+
+
+
 }//end of class
