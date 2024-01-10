@@ -23,6 +23,10 @@ public class T1_google_screenshot  extends TestParent {
     }//end of test case 1
 
 
+    @Test
+    public void tc003_gitCommit() {
+        //committing a new test case
+    }//end of test case 2
 
 
 
